@@ -37,6 +37,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/tarcioalmeida/tarcioalmeida/blob/output/snake.svg)
-
 ###
